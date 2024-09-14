@@ -55,4 +55,10 @@ dependencies {
     //Moshi
     implementation("com.squareup.moshi:moshi-kotlin:1.15.1")
     implementation ("com.squareup.retrofit2:converter-moshi:2.9.0")
+
+    //Picasso
+    implementation ("com.squareup.picasso:picasso:2.8")
+
+    //Coroutine
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0")
 }
